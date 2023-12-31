@@ -1,0 +1,250 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+    box-sizing:border-box;
+}
+.img
+{
+    max-width: 100%;
+    height: auto;
+}
+.logopart
+{
+   
+background: #215154;
+   
+height:150px;
+}
+
+.mrg{ margin: 0px 80px;}
+
+.logo{}
+
+.logo img
+{
+   
+float: left;
+   
+
+   
+width: 254px;
+   
+margin: 30px 0px  0px 0px;
+   
+border-radius: 82px;
+   
+outline: 1px solid black;
+   
+border: 2px dashed blueviolet;
+   
+box-shadow: 0px 0px 13px 0px black;
+}
+
+
+.logo nav
+{
+
+float: right;
+
+margin: 61px 0px 0px 0px;
+}
+
+.logo nav a
+{
+    
+margin: 0px 0px 0px 65px;
+    
+border-radius: 49px;
+    
+box-shadow: 0px 0px 13px 0px black;
+    
+font-size: 24px;
+    
+text-transform: uppercase;
+    
+padding: 12px 17px 13px 17px;
+    
+list-style: none;
+    
+background: coral;
+    
+text-decoration: none;
+    
+border: 1px solid blue;
+
+}
+
+.logo nav a:hover
+{margin: 0px 0px 0px 65px;
+    
+    border-radius: 49px;
+        
+    box-shadow: 0px 0px 13px 0px black;
+        
+    font-size: 24px;
+        
+    text-transform: uppercase;
+        
+    padding: 12px 17px 13px 17px;
+        
+    list-style: none;
+        
+    background: rgb(255, 20, 20);
+        
+    text-decoration: none;
+        
+    border: 1px solid blue;
+  
+}
+
+
+.logo nav a:active
+{margin: 0px 0px 0px 65px;
+    
+    border-radius: 49px;
+        
+    box-shadow: 0px 0px 13px 0px black;
+        
+    font-size: 24px;
+        
+    text-transform: uppercase;
+        
+    padding: 12px 17px 13px 17px;
+        
+    list-style: none;
+        
+    background: rgb(40, 253, 25);
+        
+    text-decoration: none;
+        
+    border: 1px solid blue;
+
+}
+
+/*---------------------------------------------------------------------------------------*/
+
+.bdpart1
+{
+    height: 250px;
+    background-image: url(sbi6.png);
+    background-size:cover;
+    background-position:center;
+}
+
+.mrg{}
+
+.content
+{
+    
+padding: 95px 0px 0px 115px;
+
+}
+
+.content h1
+{
+ 
+text-transform: uppercase;
+ 
+border: 1px solid BLUE;
+ 
+WIDTH: 659px;
+ 
+padding: 8px 10px 9px 14px;
+ 
+background: #39ffff;
+ 
+color: #8400ff;
+ 
+box-shadow: 0px 0px 13px 0px black;
+ 
+border-radius: 0px 32px;
+}
+
+/*---------------------------------------------------------------------------------------*/
+
+.bdpart2
+{
+    height: 351px;
+   
+    background-color: #7c37c5;
+}
+
+.mrg{}
+
+.bg-pics
+{   display: inline-block;
+    width: 30%;
+}
+
+.bg-pics img
+{   width: 200px;
+    height: 200px;
+    border: 3px solid #1d201d;
+    box-shadow: 0px 0px 16px 0px rgb(236, 255, 27);
+    float: left;
+    margin: 57px 0px 0px 167px;
+    padding: 0px 0px 0px 0px;
+}
+
+.bg-pics h2
+{
+   margin: 266px 0px 0px 169px;
+   border:2px solid red;
+   height: 30px;
+   width: 197px;
+   text-align: center;
+   background: linear-gradient(orange,yellow,green);
+}
+
+/*--------------------------------------------------------------------------------------------*/
+
+.footerpart1
+{
+    height: 350px;
+    background:#00ffa9 ;
+}
+
+.mrg{}
+
+.footer{}
+
+.footer ul
+{   float: left;
+    margin: 46px 47px 0px 135px;
+   
+}
+
+.footer ul li
+{   padding: 21px 0px 0px 0px;
+    font-size: 21px;
+    color: blue;}
+
+/*--------------------------------------------------------------------------------------------*/
+
+.footerpart2{
+   height: 150px;
+  
+   background:#29f8ff;
+}
+
+.mrg{}
+
+.content4{}
+
+.content4 span{
+    
+float: left;
+    
+border: 1px solid;
+    
+background:rgb(255, 233, 233);
+    
+margin: 67px 313px 0px 0px;
+color: #ff0000;
+}
+
+.content4 img{
+    margin: 37px 0px 0px 0px;
+}
+
+
